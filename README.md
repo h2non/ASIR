@@ -1,4 +1,6 @@
-# Some mixed classes code repository...
+# About 
+
+Code repository for the classes. 
 
 ## Author
 
