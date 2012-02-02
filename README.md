@@ -4,7 +4,7 @@ General purpose code repository for the classes.
 
 ## Author
 
-* Tomas Aparicio `<tomas@rijndael-project.com>`
+* Tomas Aparicio (<tomas@rijndael-project.com)
 
 ## License
 
