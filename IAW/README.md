@@ -2,9 +2,9 @@
 
 This repository collects a simple PHP base utility code of general purpose in order to deploy the IAW exam.
 
-# Design and Patterns
+# Features and Design Patterns
 
-### The code implementation is very simple focused on the assignature requirements based on PHP.
+#### The code implementation is very simple focused on the assignature requirements based on PHP.
 
 * Control estructures
  - `for`
@@ -13,7 +13,14 @@ This repository collects a simple PHP base utility code of general purpose in or
  - `switch`
  - `foreach`
 
-### In order to make a robust, professional and really extensible app, the code implements a very simple object-oriented programming paradigm, including:
+* Other features
+ - `Custom HTML templating`
+ - `Easy extensible using own classes`
+ - `PHP 5 full compatible`
+ - `GET and POST method supported`
+ - `Well documented (code level)`
+
+#### In order to make a robust, professional and really extensible app, the code implements a very simple object-oriented programming paradigm, including:
 
 * `Encapsulation`
 * `Abstraction`
