@@ -1,0 +1,10 @@
+@echo off
+
+CLS
+ECHO FICHERO %1
+ECHO.
+TYPE %1
+ECHO.
+PAUSE
+ECHO.
+ECHO.

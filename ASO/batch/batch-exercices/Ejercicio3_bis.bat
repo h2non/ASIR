@@ -1,0 +1,10 @@
+@ECHO OFF
+
+CLS
+ECHO FICHERO %1
+TYPE %1
+ECHO %1 >> Ejercicio3.tmp
+ECHO.
+PAUSE
+ECHO.
+ECHO.

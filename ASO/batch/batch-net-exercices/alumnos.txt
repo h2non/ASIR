@@ -1,0 +1,5 @@
+aalumno1 123_alumno1 SIMM RAL FP
+aalumno2 123_alumno2 SIMM RAL
+aalumno3 123_alumno3 SIMM
+aalumno4 123_alumno4 RAL FP
+aalumno5 123_alumno5 RAL
